@@ -9,6 +9,7 @@ class demotest {
 	@Test
 	void contextLoads() {
 		System.out.println("kkk");
+		System.out.println("lll");
 	}
 
 }
