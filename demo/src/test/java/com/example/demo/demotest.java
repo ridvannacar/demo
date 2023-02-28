@@ -10,6 +10,7 @@ class demotest {
 	void contextLoads() {
 		System.out.println("kkk");
 		System.out.println("lll");
+		System.out.println("rrr");
 	}
 
 }
